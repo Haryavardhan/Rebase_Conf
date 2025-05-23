@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 i created after commiting thew file ther and themn ame
+=======
+hi
+making
+this 
+is an wonderfull opertunity
+>>>>>>> a9df78b (commited)
